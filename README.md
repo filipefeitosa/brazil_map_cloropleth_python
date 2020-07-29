@@ -4,7 +4,7 @@ Data visualisation is an important skill when searching and presenting important
 Why is this such an interesting visual? a) it is pretty, b) it tells us the data that we are interested in exactly the location of where it is associated in, and c) it is pretty!
 With the introductions done, let’s get down to the code (and the preparations for it).
 
-## Step 2: Get the data
+## Get the data
 There are two kinds of data that we will need for this exercise:
 
 1. The data that will be mapped to locations/regions/areas/etc. There are plenty of open data that we can use freely, one if it is from Wikipedia (data accuracy and validity not guaranteed, but for this learning exercise, no problem!). For this exercise, we will use the data for each state in Brazil.
